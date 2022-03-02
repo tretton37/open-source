@@ -1,8 +1,8 @@
-# Tretton37 Open Source Contribution Policy
+# 13|37 Open Source Contribution Policy
 
 ## Overview and purpose
 
- It is the policy of **Tretton37** to use, contribute to, and publish Free and Open Source Software (“FOSS”) when doing so furthers the Company’s business purposes and does not present unacceptable risks.
+ It is the policy of **13|37** to use, contribute to, and publish Free and Open Source Software (“FOSS”) when doing so furthers the Company’s business purposes and does not present unacceptable risks.
 
 This policy is intended to minimize these risks, comport with the recommendations and best practices to ensure that, in using and contributing to FOSS, the Company and its employees respect the rights of third parties, comply with applicable regulations, and engage productively with the FOSS community.
 
@@ -78,6 +78,9 @@ But when it comes to code it is always better if you think things through first.
 - We can only contribute code that we have the right to contribute. If you are having doubts, reach out to the Head of Competence Development.
 - Don’t contribute code that exposes sensitive or proprietary information.
 - Don’t contribute sub-par code. Your contributions are a reflection of your engineering skills. We’d rather take the time and get another set of eyes and do a proper code review.
+
+## Logging your time in Visma
+Time spent on open source goes under a specific project in Visma.
 
 ## Summary
 

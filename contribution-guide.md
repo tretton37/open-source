@@ -35,7 +35,7 @@ Every open-source project contains people of different roles and commitments to 
 - Contributors: those who have contributed to the project.
 - Community Members: those who use the project.
 
-If you look at the project you selected from our [list](projects.md) there might also be a list of Tretton37 people who have contributed to your project, so you already have the advantage of knowing someone on the inside.
+If you look at the project you selected from our [list](projects.md) there might also be a list of 13|37 people who have contributed to your project, so you already have the advantage of knowing someone on the inside.
 
 ## Where to start?
 

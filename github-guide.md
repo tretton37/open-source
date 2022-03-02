@@ -14,12 +14,12 @@ If you follow this guide you might end up with a profile looking something like 
 
 ---
 
-## Join Tretton37 on Github
+## Join 13|37 on Github
 
-Join the Tretton37 organization on GitHub - https://github.com/tretton37/.
+Join the 13|37 organization on GitHub - https://github.com/tretton37/.
 You can do this by opening a ticket at https://service.tretton37.com. Make sure to write your GitHub username in the ticket.
 
-If you wish your profile to be shown publicly as part of Tretton37 you need to
+If you wish your profile to be shown publicly as part of 13|37 you need to
 do the following steps:
 
 -   Go to the organization page - https://github.com/tretton37/.
@@ -48,7 +48,7 @@ specialize in.
 
 ### 5. Write your email.
 
-You can use your @tretton37.com address or not. If you use your address you could include your @tretton37.com address in your readme as I did.
+You can use your @13|37.com address or not. If you use your address you could include your @13|37.com address in your readme as I did.
 
 ### 4. (Optional) Specify employer.
 

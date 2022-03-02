@@ -17,11 +17,11 @@ These projects were selected by Competence Group leads, and if you are part of a
 
 A JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=moment)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=moment)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=moment) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=moment) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=moment)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=moment) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=moment) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=moment)
 
 
 ### #2 [chance.js](https://github.com/chancejs/chancejs)
@@ -32,11 +32,11 @@ A JavaScript date library for parsing, validating, manipulating, and formatting 
 
 Chance - Random generator helper for JavaScript
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=chancejs)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=chancejs)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=chancejs) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=chancejs) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=chancejs)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=chancejs) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=chancejs) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=chancejs)
 
 
 ### #3 [The A11Y Project](https://github.com/a11yproject/a11yproject.com)
@@ -48,11 +48,11 @@ Chance - Random generator helper for JavaScript
 
 The Accessibility (A11Y) Project is an Open-source, community-driven effort to make digital accessibility easier.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=a11yproject.com)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=a11yproject.com)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=a11yproject.com) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=a11yproject.com) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=a11yproject.com)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=a11yproject.com) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=a11yproject.com) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=a11yproject.com)
 
 
 ---
@@ -67,11 +67,11 @@ The Accessibility (A11Y) Project is an Open-source, community-driven effort to m
 
 The .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that developers tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with .NET MAUI.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=Maui)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=Maui)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=Maui) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=Maui) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=Maui)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=Maui) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=Maui) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=Maui)
 
 ---
 ## Google Cloud Platform Development
@@ -85,11 +85,11 @@ The .NET MAUI Community Toolkit is a collection of common elements for developme
 
 The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=Amass)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=Amass)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=Amass) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=Amass) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=Amass)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=Amass) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=Amass) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=Amass)
 
 ### #2 [Zaproxy](https://github.com/zaproxy/zaproxy)
 
@@ -99,11 +99,11 @@ The OWASP Amass Project performs network mapping of attack surfaces and external
 
 The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=zaproxy)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=zaproxy)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=zaproxy) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=zaproxy) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=zaproxy)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=zaproxy) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=zaproxy) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=zaproxy)
 
 
 ### #3 [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg)
@@ -114,11 +114,11 @@ The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free secur
 
 Official repository for the Open Web Application Security Project® (OWASP®) Web Security Testing Guide (WSTG). The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of security professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=wstg)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=wstg)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=wstg) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=wstg) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=wstg)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=wstg) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=wstg) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=wstg)
 
 ---
 ## Quality as process
@@ -139,11 +139,11 @@ These projects were selected by Project OSS team to test the concepts.
 
 Piranha is an ASP.NET based CMS with a modern and clean architecture. [Documentation here.](https://piranhacms.org/docs)
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=piranha.core&wtf=true)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=piranha.core&wtf=true)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=piranha.core) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=piranha.core) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=piranha.core)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=piranha.core) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=piranha.core) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=piranha.core)
 
 ---
 
@@ -154,8 +154,8 @@ Piranha is an ASP.NET based CMS with a modern and clean architecture. [Documenta
 
 bUnit is a testing library for Blazor components for ASP.NET. [Documentation here.](https://bunit.dev/docs/getting-started/index.html)
 
-### Tretton37 impact
+### 13|37 impact
 
-![Tretton37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=bunit&wtf=true)
+![13|37 people](https://oss-tools.1337.services/badger/table-badge.png?type=ProjectEmployeeContributions&project=bunit&wtf=true)
 
-![Tretton37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=bunit) ![Tretton37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=bunit) ![Tretton37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=bunit)
+![13|37 PRs](https://oss-tools.1337.services/badger/badge.png?type=TotalPrs&project=bunit) ![13|37 commits](https://oss-tools.1337.services/badger/badge.png?type=TotalCommits&project=bunit) ![13|37 Issues](https://oss-tools.1337.services/badger/badge.png?type=TotalIssues&project=bunit)
