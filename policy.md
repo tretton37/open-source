@@ -61,7 +61,7 @@ When deciding what projects to choose, it is important to consider the impact ou
 - Popularity and visibility of the project in different social circles
 
 ## Working groups (an alternative to projects)
-If you need more guidance and a more involved active community in your open-source journey, you might consider working groups. Working groups are much more organized than a set of individuals contributing to a project. Working groups do have specific projects they work on, but the organisation is more people-centric than project-centric. You can google a technology + working group to see if there are working groups for your tech stack, like the [Node.js working groups](https://nodejs.org/en/about/working-groups/). You can also check out the open [source initiative working groups](https://opensource.org/working_groups).
+If you need more guidance and a more involved active community in your open-source journey, you might consider working groups. Working groups are much more organized than a set of individuals contributing to a project. Working groups do have specific projects they work on, but the organisation is more people-centric than project-centric. You can google a technology + working group to see if there are working groups for your tech stack, like the [Node.js working groups](https://nodejs.org/en/about/working-groups/). You can also check out the  [open-source initiative working groups](https://opensource.org/working_groups) and these [open-source organisations, which also have working groups](https://opensource.com/resources/organizations).
 
 ## The Contributors License Agreement (CLAs)
 
