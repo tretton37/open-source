@@ -60,6 +60,13 @@ When deciding what projects to choose, it is important to consider the impact ou
 - Number of our clients that depend on the software
 - Popularity and visibility of the project in different social circles
 
+## Reaching out to project owners
+We want to establish and keep a good relationship with the owners of the projects we contribute to. This has many benefits for both parties. We help the projects by contributing our time and knowledge and the project owners can reward us by giving us more privileges in the project and publicly acknowledging our contributions to the project.
+
+The best way to reach out to the project owners is to start by using and contributing to the project. After some contributions, you can reach out to the project owners to establish a relationship.
+
+Some project owners are open to establishing a relationship even before any contribution is made. When trying this path just be open and transparent about your intentions.
+
 ## Working groups (an alternative to projects)
 If you need more guidance and a more involved active community in your open-source journey, you might consider working groups. Working groups are much more organized than a set of individuals contributing to a project. Working groups do have specific projects they work on, but the organisation is more people-centric than project-centric. You can google a technology + working group to see if there are working groups for your tech stack, like the [Node.js working groups](https://nodejs.org/en/about/working-groups/). You can also check out the  [open-source initiative working groups](https://opensource.org/working_groups) and these [open-source organisations, which also have working groups](https://opensource.com/resources/organizations).
 
