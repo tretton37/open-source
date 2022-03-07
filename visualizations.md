@@ -2,7 +2,7 @@
 
 Badger is a tool that provides several visualizations of open-source contributions that the company and it's employees have made.
 
-The Tretton37 badger sources it's data from GitHub. It's scope is set to the organization [tretton37](https://github.com/tretton37).
+The 13|37 badger sources it's data from GitHub. It's scope is set to the organization [13|37](https://github.com/tretton37).
 
 Following are some example visualizations that the tool generates.
 

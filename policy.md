@@ -1,8 +1,8 @@
-# Tretton37 Open Source Contribution Policy
+# 13|37 Open Source Contribution Policy
 
 ## Overview and purpose
 
- It is the policy of **Tretton37** to use, contribute to, and publish Free and Open Source Software (“FOSS”) when doing so furthers the Company’s business purposes and does not present unacceptable risks.
+ It is the policy of **13|37** to use, contribute to, and publish Free and Open Source Software (“FOSS”) when doing so furthers the Company’s business purposes and does not present unacceptable risks.
 
 This policy is intended to minimize these risks, comport with the recommendations and best practices to ensure that, in using and contributing to FOSS, the Company and its employees respect the rights of third parties, comply with applicable regulations, and engage productively with the FOSS community.
 
@@ -60,8 +60,17 @@ When deciding what projects to choose, it is important to consider the impact ou
 - Number of our clients that depend on the software
 - Popularity and visibility of the project in different social circles
 
-## Working groups (an alternative to projects)
-If you need more guidance and a more involved active community in your open-source journey, you might consider working groups. Working groups are much more organized than a set of individuals contributing to a project. Working groups do have specific projects they work on, but the organisation is more people-centric than project-centric. You can google a technology + working group to see if there are working groups for your tech stack, like the [Node.js working groups](https://nodejs.org/en/about/working-groups/). You can also check out the open [source initiative working groups](https://opensource.org/working_groups).
+## Reaching out to project owners
+We want to establish and keep a good relationship with the owners of the projects we contribute to. This has many benefits for both parties. We help the projects by contributing our time and knowledge and the project owners can reward us by giving us more privileges in the project and publicly acknowledging our contributions to the project.
+
+The best way to reach out to the project owners is to start by using and contributing to the project. After some contributions, you can reach out to the project owners to establish a relationship.
+
+Some project owners are open to establishing a relationship even before any contribution is made. When trying this path just be open and transparent about your intentions.
+
+# Working groups (an addition to specific single projects)
+Working groups are much more organized than a set of individuals contributing to a project. Working groups have specific projects they work on and sometimes offer mentorship to the people that would like to start the project in their (Working Group) domain and need help doing so. Organization is more people-centric than project-centric and can have great potential for community impact. Example of working group:
+-	[Node.js working groups](https://nodejs.org/en/about/working-groups/)
+-	[open-source organizations, which also have working groups](https://opensource.com/resources/organizations)
 
 ## The Contributors License Agreement (CLAs)
 
@@ -78,6 +87,9 @@ But when it comes to code it is always better if you think things through first.
 - We can only contribute code that we have the right to contribute. If you are having doubts, reach out to the Head of Competence Development.
 - Don’t contribute code that exposes sensitive or proprietary information.
 - Don’t contribute sub-par code. Your contributions are a reflection of your engineering skills. We’d rather take the time and get another set of eyes and do a proper code review.
+
+## Logging your time in Visma
+Time spent on open source goes under a specific project in Visma.
 
 ## Summary
 
