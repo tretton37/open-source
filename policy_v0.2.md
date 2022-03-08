@@ -12,6 +12,8 @@ You will be achieveing all of these by working on open-source projects. So let's
 
 The rest of this document is split into two main sections: -For Contributors, and -For Organizers. If you are tasked with contributing to open-source, you should read the former and if you are tasked with organizing open-source work (as a competence group lead or otherwise) you should read the latter.
 
+---
+
 # For Contributors
 
 So, you have decided to join our open-source initative and grow with us? That is fantastic.
@@ -37,21 +39,94 @@ We encourage all employees, when they have sufficient extra time, to contribute 
 
 There is a [list of projects](/docs/projects.md) to which we at **13|37** contribute to. If you are currently part of a competence group then the obvious choice should be one of the projects assigned to your competence group (found on the list). In general you can pick any project from the list. Try to find one that alligns with your skillset and your interests. In any case you should make this decission together with your manager.
 
-**REWRITE END**
------
+## Where to start? - Picking your first issue
 
-## Selecting the projects
+You should first familiarize yourself with what the project does and how it works. This should be written in the projects Readme.md file and presented on it's front page ([example](https://github.com/bUnit-dev/bUnit)). Most projects also have some documentation, hosted on a different website and linked from the readme. You should read through that, deploy the project (if applicable) and have a general look around.
 
-It is one of the responsibilities of competence group leads to select one or more open-source projects for their respective competence groups. After being selected these projects should be listed in our [project list](/docs/projects.md). The competence group members are advised to work on open-source projects of their groups.
+After you've familiarised yourself with the project have a look through the open issues of that project ([example](https://github.com/bUnit-dev/bUnit/issues)). There is usually a tagging strategy which markes the types of issues. You should keep an eye out for issues taged with "good first issue" or "need help". Look through these issues, find one that you understand and would like to resolve. 
 
- Employees who are not competence leads have the opportunity to nominate an open-source project. If anyone has their own open-source project or is really passionate about one they can reach out to an appropriate competence lead and nominate the project.
+Then "claim" the issue by commenting on it saying something like "I would like to resolve this issue".
 
-## Guidelines for selecting a project
+You can also look through the pull requests of a project ([example](https://github.com/bUnit-dev/bUnit/pulls)). This will give you insight into the codebase and the coding standards.
 
-When choosing OSS projects to which we as a company would like to contribute, there are some factors to keep in mind. This section will break down the main considerations and help guide you towards an awesome project that will benefit us in multiple aspects.
+## How to ask for help?
 
-Before diving into the following sub-sections, please keep in mind that employees 
-who will be working on the projects should have the ability to learn something new from the experience as well as have fun.
+Before you ask your question be sure to do your homework. See if the question has already been asked by googling it. Also look through the documentation if the answer lies within. 
+
+If you cannot find the answer on your own you should reach out for help. Before posting a question I recommend reading [this guide](https://stackoverflow.com/help/how-to-ask) on how to ask a coding question well.
+
+To reach out you can:
+- Message a colleague who is on the project.
+- Comment on the issue you've taken.
+- Write to the forum (if there is one).
+- Open a new issue on the project.
+- Write directly to the project maintainers.
+
+## How to submit a contribution?
+You submit contributions via pull requests. This might be less familiar to our non-engineer colleagues. Put simply a pull request is a request to accept some changes that you have made to a project.
+
+Projects generally have a set of contribution guidelines which state what a pull request should contain. Be sure to follow this when submitting apull request.
+
+It is usually better to open a pull request early on, so others can watch or give feedback on your progress. Make sure to mark the pull request as WIP - work in progress if you do so.
+
+Here are the steps to make a change and submit a pull request on GitHub:
+- [Fork the repository and clone it locally.](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+- [Create a branch.](https://docs.github.com/en/get-started/quickstart/github-flow)
+- Make your changes.
+- Reference your issue in the title or description. (example. Closes #37)
+- [Push your changes (same article as above)](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+
+Now keep your eyes open for reviews and address any comments. When your pull request receives comments you should address them by replying or by adjusting your code and updating your pull reqeuest.
+
+
+## How to log your time?
+
+We want to keep track of how many hours our employees spend on working on open-soruce projects. This is why we ask you to log your time under the **TODO : INSERT PROJECT** project in Visma.
+
+## What to be careful of?
+
+When it comes to code it is always better if you think things through first. Most of the time, a code contribution to an open-source project is a normal and inconsequential task. But sometimes it's more than that. Try to follow these practices:
+
+- We can only contribute code that we have the right to contribute. If you are having doubts, reach out to the Head of Competence Development.
+- Don’t contribute code that exposes sensitive or proprietary information.
+- Don’t contribute sub-par code. Your contributions are a reflection of your engineering skills. We’d rather take the time and get another set of eyes and do a proper code review.
+
+---
+
+# For organizers
+
+This section is meant for open-source project organizers. Those who select projects and facilitate contributions to said projects.
+
+## Who are the organizers?
+
+The organizers of open-source contributing are Competence Group Leads. You can find the list of all [current competence groups here](https://app.happeo.com/pages/1evsd05ab40fbrg1f5/CompetenceGroups/1evsd3dtmlcl0pb4gs).Each lead has a duty to select one or more open-source project (if applicable) for their respective competence groups.
+
+Employees who are not competence group leads have the opportunity to nominate open-source projects to the leads. The lead have the duty to facilitate this process and the discretion to select the most appropriate projects.
+
+## How to select the projects?
+
+It is important to keep in mind the three main reasons of **13|37** open-source contributions. To reiterate, these are:
+- Giving back to the community.
+- Empowering our employees to learn and grow by working on open-source projects.
+- Improving the image of **13|37** in the eyes of future employees and clients.
+
+Wit those in mind we also have criteria for the best open-source projec candidate. An ideal project should:
+- Be understaffed.
+- Be popular.
+- Have potentaial.
+
+These are the core guidelines for selecting a project. In the following sections we will go into some detail with more suggestions on how to select a project.
+
+---
+**End of rewrite**
+
+---
+
+### The Contributors License Agreement (CLAs)
+
+Some projects require you to sign a Contributors License Agreement (CLA) before the contribution will be accepted.
+
+Most CLAs contain terms that we are okay signing. If you are in doubt contact Head of Competence Development.
 
 ### Licensing
 
@@ -90,7 +165,7 @@ When deciding what projects to choose, it is important to consider the impact ou
 - Number of our clients that depend on the software
 - Popularity and visibility of the project in different social circles
 
-## Reaching out to project owners
+### Reaching out to project owners
 We want to establish and keep a good relationship with the owners of the projects we contribute to. This has many benefits for both parties. We help the projects by contributing our time and knowledge and the project owners can reward us by giving us more privileges in the project and publicly acknowledging our contributions to the project.
 
 The best way to reach out to the project owners is to start by using and contributing to the project. After some contributions, you can reach out to the project owners to establish a relationship.
@@ -100,26 +175,7 @@ Some project owners are open to establishing a relationship even before any cont
 ## Working groups (an alternative to projects)
 If you need more guidance and a more involved active community in your open-source journey, you might consider working groups. Working groups are much more organized than a set of individuals contributing to a project. Working groups do have specific projects they work on, but the organisation is more people-centric than project-centric. You can google a technology + working group to see if there are working groups for your tech stack, like the [Node.js working groups](https://nodejs.org/en/about/working-groups/). You can also check out the  [open-source initiative working groups](https://opensource.org/working_groups) and these [open-source organisations, which also have working groups](https://opensource.com/resources/organizations).
 
-## The Contributors License Agreement (CLAs)
-
-Some projects require you to sign a Contributors License Agreement (CLA) before the contribution will be accepted.
-
-Most CLAs contain terms that we are okay signing. If you are in doubt contact Head of Competence Development.
-
-## Contributions
-
-Firstly, you can contribute much more than code to an open-source project. Using your writing, design and organizing skills can also bring value. See the [contribution guide](contribution-guide.md) for more detail.
-
-But when it comes to code it is always better if you think things through first. Most of the time, a code contribution to an open-source project is a normal and inconsequential task. But sometimes it's more than that. Try to follow these practices:
-
-- We can only contribute code that we have the right to contribute. If you are having doubts, reach out to the Head of Competence Development.
-- Don’t contribute code that exposes sensitive or proprietary information.
-- Don’t contribute sub-par code. Your contributions are a reflection of your engineering skills. We’d rather take the time and get another set of eyes and do a proper code review.
-
-## Logging your time in Visma
-Time spent on open source goes under a specific project in Visma.
-
-## Summary
+# Summary
 
 We encourage you to contribute to open-source projects. You don’t need our review and approval for the contribution you make, we’re not here to slow you down. Rather, we want to highlight potential issues and address them for you.
 
