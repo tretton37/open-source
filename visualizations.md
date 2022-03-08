@@ -6,26 +6,15 @@ The 13|37 badger sources it's data from GitHub. It's scope is set to the organiz
 
 Following are some example visualizations that the tool generates.
 
-> Note: You can also get `.svg` graphics by replacing the `.png` extension in the URL.
+> Note: You can also get `.svg` graphics by replacing the `.svg` extension in the URL.
 
 At the moment, the home for the Badger (and other OSS tools we use) is here: `https://oss-tools.azurewebsites.net`. You can check out the API specification by navigating to the `/swagger` enndpoint.
 
 ---
 
-Markdown: `![IndividualContributors](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualContributors&all=false&limit=10)`
+Markdown: `![IndividualContributors](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualContributors&all=false&limit=10)`
 
-![IndividualContributors](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualContributors&all=false&limit=10)
-
-| Parameter | Description                                                                                                  |
-| --------- | ------------------------------------------------------------------------------------------------------------ |
-| all       | Include all contributions in calculations. Defaults to only [whitelisted](#project-whitelist) contributions. |
-| limit     | Limit results to the number specified. No limit is imposed by default                                        |
-
----
-
-Markdown: `![IndividualContributorSpecifics](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualContributorSpecifics&all=false&limit=10)`
-
-![IndividualContributorSpecifics](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualContributorSpecifics&all=false&limit=10)
+![IndividualContributors](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualContributors&all=false&limit=10)
 
 | Parameter | Description                                                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -34,9 +23,20 @@ Markdown: `![IndividualContributorSpecifics](https://oss-tools.azurewebsites.net
 
 ---
 
-Markdown: `![ProjectContributions](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=ProjectContributions&project=bunit)`
+Markdown: `![IndividualContributorSpecifics](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualContributorSpecifics&all=false&limit=10)`
 
-![ProjectContributions](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=ProjectContributions&project=bunit)
+![IndividualContributorSpecifics](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualContributorSpecifics&all=false&limit=10)
+
+| Parameter | Description                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------------ |
+| all       | Include all contributions in calculations. Defaults to only [whitelisted](#project-whitelist) contributions. |
+| limit     | Limit results to the number specified. No limit is imposed by default                                        |
+
+---
+
+Markdown: `![ProjectContributions](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=ProjectContributions&project=bunit)`
+
+![ProjectContributions](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=ProjectContributions&project=bunit)
 
 | Parameter | Description                                                    |
 | --------- | -------------------------------------------------------------- |
@@ -44,9 +44,9 @@ Markdown: `![ProjectContributions](https://oss-tools.azurewebsites.net/badger/ta
 
 ---
 
-Markdown: `![ProjectEmployeeContributions](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=ProjectEmployeeContributions&project=bunit&limit=10)`
+Markdown: `![ProjectEmployeeContributions](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=ProjectEmployeeContributions&project=bunit&limit=10)`
 
-![ProjectEmployeeContributions](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=ProjectEmployeeContributions&project=bunit&limit=10)
+![ProjectEmployeeContributions](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=ProjectEmployeeContributions&project=bunit&limit=10)
 
 | Parameter | Description                                                           |
 | --------- | --------------------------------------------------------------------- |
@@ -55,9 +55,9 @@ Markdown: `![ProjectEmployeeContributions](https://oss-tools.azurewebsites.net/b
 
 ---
 
-Markdown: `![IndividualProjects](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualProjects&all=true&limit=10)`
+Markdown: `![IndividualProjects](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualProjects&all=true&limit=10)`
 
-![IndividualProjects](https://oss-tools.azurewebsites.net/badger/table-badge.png?type=IndividualProjects&all=true&limit=10)
+![IndividualProjects](https://oss-tools.azurewebsites.net/badger/table-badge.svg?type=IndividualProjects&all=true&limit=10)
 
 | Parameter | Description                                                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -66,9 +66,9 @@ Markdown: `![IndividualProjects](https://oss-tools.azurewebsites.net/badger/tabl
 
 ---
 
-Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalCommits&all=true)`
+Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalCommits&all=true)`
 
-![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalCommits&all=true)
+![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalCommits&all=true)
 
 | Parameter | Description                                                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------------------ |
@@ -76,9 +76,9 @@ Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?
 
 ---
 
-Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalCommits&project=piranha.core)`
+Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalCommits&project=piranha.core)`
 
-![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalCommits&project=piranha.core)
+![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalCommits&project=piranha.core)
 
 | Parameter | Description                                                    |
 | --------- | -------------------------------------------------------------- |
@@ -86,9 +86,9 @@ Markdown: `![TotalCommits](https://oss-tools.azurewebsites.net/badger/badge.png?
 
 ---
 
-Markdown: `![TotalPrs](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalPrs&project=bunit)`
+Markdown: `![TotalPrs](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalPrs&project=bunit)`
 
-![TotalPrs](https://oss-tools.azurewebsites.net/badger/badge.png?type=TotalPrs&project=bunit)
+![TotalPrs](https://oss-tools.azurewebsites.net/badger/badge.svg?type=TotalPrs&project=bunit)
 
 | Parameter | Description                                                    |
 | --------- | -------------------------------------------------------------- |
