@@ -116,7 +116,7 @@ Official repository for the Open Web Application Security Project® (OWASP®) We
 
 ---
 
-# Other projects
+# Non-competence group projects
 
 ## [Piranha.Core](https://github.com/PiranhaCMS/piranha.core/)
 
