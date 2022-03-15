@@ -85,9 +85,7 @@ what the project is and how to use it.
 
 ## Leveling up your GitHub profile
 
-### Do you want your GitHub profile to stand out like this guy?
-
-![My profile](./img/luka.png "My GitHub profile") As you can see this profile has a README.md
+As you can see in the profile example at the top it has a README.md
 file on the GitHub profile. It contains some information, some links, and some
 nice visualizations about various projects and contributions. Let me show you how to
 replicate that.
@@ -122,7 +120,7 @@ repository](https://github.com/DoubleL222/Doublel222) (click on raw view to look
 at the code).
 
 ### 3. (Optional) Create your readme file with the 13|37 branded generator
-The OSS team has created a [readme generator](https://oss-tools.1337.services/readmemaker.html) to help you make a 13|37 branded readme. With a few clicks you can create something awesome like this:
+The OSS team has created a [readme generator](https://oss-tools.1337.services/readmemaker/index.html) to help you make a 13|37 branded readme. With a few clicks you can create something awesome like this:
 ![GeneratorReadme](img/ReadmeGenerator.png)
 All you need to do is enter the information in the forms. Then copy the generated content on the right to your README.MD file.
 
