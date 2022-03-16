@@ -1,9 +1,8 @@
 # GitHub profile guide
 
-This guide is meant to help you present yourself on GitHub. A good presentation will help you in making a good impression on potential clients, future employers etc.
+This guide is meant to help you present yourself on GitHub. This will help you in making a good impression on potential clients, future employers etc.
 
 If you follow this guide you might end up with a profile looking something like this:
-![My profile](./img/luka.png "My GitHub profile")
 
 ---
 
@@ -59,10 +58,7 @@ what the project is and how to use it.
 
 ## Leveling up your GitHub profile
 
-As you can see in the profile example at the top it has a README.md
-file on the GitHub profile. It contains some information, some links, and some
-nice visualizations about various projects and contributions. Let me show you how to
-replicate that.
+You can actually do a lot with the front page of your github profile (see two examples below). You do this by adding a README.md file to your profile page. Follow these steps to do so:
 
 ### 1. Create the repository for the README
 
@@ -73,7 +69,18 @@ GitHub username like so:
 
 **Remember to tick the "Add a README file" checkbox and click "Create repository".**
 
-### 2. Edit your README file
+### 2.1 Create your readme file with the 13|37 branded generator
+The OSS team has created a [readme generator](https://oss-tools.1337.services/readmemaker/index.html) to help you make a 13|37 branded readme. With a few clicks you can create an awesome profile as Denis has:
+
+![Denis readme](img/DenisGithubProfile.png)
+
+To use the generator, enter the information in various forms. After you are done copy the generated mardkown text (bottom right) to your README.md file.
+
+### 2.2 Or create your README file manually
+
+If you want your profile to be more personalized you can create it manually and still achieve good results like Luka did here:
+
+![Luka readme](img/luka.png)
 
 The README file is written in a markup language called markdown. If you're not familiar with it and have plenty of time, [here is the getting started
 guide](https://www.markdownguide.org/getting-started/) and if you are lacking time [here is a cheat sheet](https://www.markdownguide.org/cheat-sheet/).
@@ -91,12 +98,6 @@ You can look at an example of everything mentioned [on my
 repository](https://github.com/DoubleL222/Doublel222) (click on raw view to look
 at the code).
 
-### 3. Create your readme file with the 13|37 branded generator
-The OSS team has created a [readme generator](https://oss-tools.1337.services/readmemaker/index.html) to help you make a 13|37 branded readme. With a few clicks you can create an awesome profile as Denis has:
-
-![Denis readme](img/DenisGithubProfile.png)
-
-To use the generator, enter the information in various forms. After you are done copy the generated mardkown text (bottom right) to your README.MD file.
 
 ## GitHub Pages
 
