@@ -2,8 +2,6 @@
 
 This guide is meant to help you present yourself on GitHub. This will help you in making a good impression on potential clients, future employers etc.
 
-If you follow this guide you might end up with a profile looking something like this:
-
 ---
 
 ## Join 13|37 on Github
@@ -60,7 +58,7 @@ what the project is and how to use it.
 
 You can actually do a lot with the front page of your github profile (see two examples below). You do this by adding a README.md file to your profile page. Follow these steps to do so:
 
-### 1. Create the repository for the README
+### 1. Create the repository for the README.md file
 
 You will need to create a new public repository with the same name as your
 GitHub username like so:
@@ -68,15 +66,18 @@ GitHub username like so:
 ![Secret repository](./img/secret.png)
 
 **Remember to tick the "Add a README file" checkbox and click "Create repository".**
+### 2. Edit your README.md file
+To edit your readme file simply go to the repository you just created, find the README.md file and click the edit icon on the top right, like so:
+![edit readme](./img/editReadme.png)
 
-### 2.1 Create your readme file with the 13|37 branded generator
+### 3.1 Create your README.md file content with the 13|37 branded generator
 The OSS team has created a [readme generator](https://oss-tools.1337.services/readmemaker/index.html) to help you make a 13|37 branded readme. With a few clicks you can create an awesome profile as Denis has:
 
 ![Denis readme](img/DenisGithubProfile.png)
 
 To use the generator, enter the information in various forms. After you are done copy the generated mardkown text (bottom right) to your README.md file.
 
-### 2.2 Or create your README file manually
+### 3.2 Or create your README file manually
 
 If you want your profile to be more personalized you can create it manually and still achieve good results like Luka did here:
 
@@ -91,11 +92,10 @@ Now you can more effectively express yourself by using links, images, [badges](h
 You can also add various cool widgets to your GitHub readme like the
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-Here is my README.md:
-![My readme](img/myReadme.png)
+Here is Luka's README.md:
+![Lukas readme](img/myReadme.png)
 
-You can look at an example of everything mentioned [on my
-repository](https://github.com/DoubleL222/Doublel222) (click on raw view to look
+You can look at an example of everything mentioned [on Luka's repository](https://github.com/DoubleL222/Doublel222) (click on raw view to look
 at the code).
 
 
