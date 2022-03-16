@@ -23,26 +23,7 @@ do the following steps:
 ## Your profile info
 
 You should fill out your GitHub profile info. You can access it via https://github.com/ + *\<your GitHub
-username\>* by clicking on "Edit Profile" under your profile picture.
-
-### 1. Add a profile picture.
-
-### 2. Set your name.
-
-### 3. Write a bio.
-
-Make sure to include the technologies you
-specialize in. 
-
-### 5. Write your email.
-
-You can use your @13|37.com address or not. If you use your address you could include your @13|37.com address in your readme as I did.
-
-### 4. (Optional) Specify employer.
-
-### 6. (Optional) Specify your work location.
-
-### 7. (Optional) Specify website and Twitter.
+username\>* by clicking on "Edit Profile" under your profile picture. Fill in all the infomation you want to make public.
 
 ## Featuring your projects
 
