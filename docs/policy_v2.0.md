@@ -37,7 +37,7 @@ We encourage all employees, when they have sufficient extra time, to contribute 
 
 ## Which project to contribute to?
 
-There is a [list of projects](/docs/projects.md) to which we at **13|37** contribute. If you are currently part of a competence group then the obvious choice should be one of the projects assigned to your competence group (found on the list). In general, you can pick any project from the list. Try to find one that aligns with your skillset and your interests. In any case, you should make this decision together with your manager.
+There is a [list of projects](./projects.md) to which we at **13|37** contribute. If you are currently part of a competence group then the obvious choice should be one of the projects assigned to your competence group (found on the list). In general, you can pick any project from the list. Try to find one that aligns with your skillset and your interests. In any case, you should make this decision together with your manager.
 
 ## Where to start? - Picking your first issue
 
